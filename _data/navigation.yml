@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Resources"
+    url: /resources/
+  - title: "Resume"
+    url: assets/docs/resume.pdf

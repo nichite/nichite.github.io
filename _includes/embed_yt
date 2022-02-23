@@ -1,0 +1,14 @@
+
+{% capture video_id %}{{ include.id }}{% endcapture %}
+{% capture video_vertical %}{{ include.vertical | default: false }}{% endcapture %}
+
+{% if video_vertical == "true" %}
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" width=900 height=1600></iframe>
+{% else %}
+  <p>blah</p>
+  <div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+{% endif %}
+
+{{ video_vertical }}
