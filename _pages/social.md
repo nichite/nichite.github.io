@@ -3,7 +3,7 @@ permalink: /social/
 layout: splash
 
 header:
-  overlay_image: /assets/images/banner_full.jpg
+  overlay_image: /assets/images/headers/social.jpg
   overlay_filter:
     linear-gradient(rgba(127, 0, 0, 0.35), rgba(0, 127, 127, 0.35))
   actions:

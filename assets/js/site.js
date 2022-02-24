@@ -17,6 +17,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+  // Fix header stuff.
+  document.querySelector('.site-title').style.marginRight = '0';
+
   // Fix footer stuff.
   document.querySelector('#footer').style.backgroundColor = '#ddd';
   document.querySelector('.page__footer-copyright').textContent =
