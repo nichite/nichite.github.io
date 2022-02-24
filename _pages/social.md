@@ -1,6 +1,9 @@
 ---
 permalink: /social/
 layout: splash
+# Prevent title from showing up on the header image. Empty string will default
+# to the page title. If I want the header image taller, I could also use '<br>'.
+title: ' '
 
 header:
   overlay_image: /assets/images/headers/social.jpg

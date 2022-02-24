@@ -40,6 +40,31 @@ resource_row1:
         happens, and join our [Discord server](https://discord.gg/xV7qDpUUaf)!
     url: https://enablingthefuture.org
 resource_row2:
+  - image_path: /assets/images/resources/arm_dynamics.jpg
+    alt: CPO Mac Lang fitting an amputee with a new bionic arm.
+    title: Advanced Arm Dynamics
+    excerpt: |
+        **The best upper-limb specialists in the US.** Need a new prosthetic?
+        Expect exceptional care and a beautiful device from these folks. I
+        visited their site in Portland.
+    url: https://armdynamics.com
+  - image_path: /assets/images/resources/taska.jpg
+    alt: A dramatically lit TASKA prosthetic hand performing a pincer grip.
+    title: TASKA Prosthetics
+    excerpt: |
+        Makers of the popular TASKA prosthetic hand. There are several
+        multi-articulating hands these days, but the TASKA is by far the most
+        durable, and (as far as I know) **the only one that's waterproof.**
+    url: https://taskaprosthetics.com
+  - image_path: /assets/images/resources/coapt.jpg
+    alt: An open bionic arm showing the COAPT system wired up inside.
+    title: COAPT Complete Control
+    excerpt: |
+        I love the myoelectric pattern recognition system that COAPT has put out
+        with their Gen2 system. **The nervous system of the bionic arm**, COAPT
+        pattern rec gives superior control and flexibility. And it's easy!
+    url: https://coaptengineering.org    
+resource_row3:
   - image_path: /assets/images/resources/open_source_leg.jpg
     alt: Side view of an amputee wearing the open-source leg.
     title: Open-Source Leg
@@ -74,6 +99,10 @@ resource_row2:
 
 {% include resource_row id="resource_row1" %}
 
-## Bionics
+## My Arm
 
 {% include resource_row id="resource_row2" %}
+
+## Bionics
+
+{% include resource_row id="resource_row3" %}
