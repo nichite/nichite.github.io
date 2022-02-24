@@ -25,7 +25,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'nichite/nichite.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 head_scripts:
   - /assets/js/site.js
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: /assets/images/headers/resources.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: '/assets/images/lohm.png'
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -77,19 +77,26 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: # Open Graph/Twitter default site image
+og_image: '/assets/images/headers/index.jpg' # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
+  name: Nic Hite # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - 'https://instagram.com/leftyonhardmode'
+    - 'https://tiktok.com/leftyonhardmode'
+    - 'https://www.youtube.com/channel/UC5kbJvbgkwj89CGkwouHUwA?sub_confirmation=1'
+    - 'https://github.com/nichite'
+    - 'https://www.linkedin.com/in/nichite/'
+    - 'https://twitter.com/leftyonhardmode'
+    - 'https://medium.com/@leftyonhardmode'
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
+    tracking_id: G-ETEWBKEVEC
     anonymize_ip: # true, false (default)
 
 # Site Author
