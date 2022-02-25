@@ -94,9 +94,9 @@ social:
 
 # Analytics
 analytics:
-  provider: google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: 'google-gtag' # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: G-ETEWBKEVEC
+    tracking_id: 'G-ETEWBKEVEC'
     anonymize_ip: # true, false (default)
 
 # Site Author
