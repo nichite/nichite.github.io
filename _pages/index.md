@@ -108,7 +108,7 @@ horizon looks like this:
   they'll be implanted, talk to your brain directly, whatever. It will take a
   few decades to get here.
 
-What I see missing is the _near future class of bionics, specialized for
+What I see missing is the _near-future class of bionics, specialized for
 interacting with technology_. Typing on a keyboard, operating a phone, and using
 a DSLR camera or game controller usually requires a lot of the high-dexterity
 motion I mentioned above, what with all the buttons, sticks, and knobs. Current
@@ -141,5 +141,5 @@ you. I've never felt more a part of the community than I do at this moment.
 ## Progress is Slow
 
 As you can tell, this site is currently pretty bare. It turns out that creating
-bionic devices takes a lot of time. Who knew! I'll be updating this site
+bionic devices takes a lot of time. Who knew? I'll be updating this site
 regularly with new projects or just my thoughts in the blog. Thanks for reading!

@@ -285,7 +285,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      clases: wide
+      classes: wide
   # pages
   - scope:
       path: ''
