@@ -9,7 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // When editing locally
         !element.href.startsWith('http://localhost') &&
         // When hosted on GitHub pages
-        !element.href.startsWith('https://nichite.github.io')) ||
+        !element.href.startsWith('https://nichite.github.io') &&
+        // When hosted on my custom domain
+        !element.href.startsWith('https://nichite.com')) ||
       // Open docs like PDFs in their own tab.
       element.href.endsWith('.pdf')
     ) {
