@@ -18,9 +18,8 @@ header:
 ---
 
 _TL;DR We're making steady progress on bionic arms, but people seem to vastly
-overestimate the capabilities and performance of current devices. Not only are
-today's bionics not even close to as good as an intact human limb, they're
-usually less functional than just wearing nothing at all._
+overestimate the capabilities and performance of current devices. The really
+futuristic ones are still far, far away._
 
 {: .notice--info}
 
@@ -74,7 +73,7 @@ different places:
    underlying tech
 2. Over-hype of experimental results in science journalism (definitely on
    purpose)
-3. Underestimation of amputees' function without prosthetics
+3. Underestimation of amputees' function without prostheses
 
 But so what, right? People like sci-fi tech and like to stretch reality a little
 bit. Problem is, I think _**it's pretty likely the misinformation about these
@@ -109,8 +108,8 @@ old, replaced by slick carbon fiber wraps and composite hands with buttons,
 LEDs, and accompanying smartphone apps.
 
 We had decided it was cool to be "part robot" and embraced black and chrome. And
-**at some point, we started calling all powered prosthetics "bionics"**, which
-is sexier, even though this (admittedly less-than-technical) term looks like it
+**at some point, we started calling all powered prostheses "bionics"**, which is
+sexier, even though this (admittedly less-than-technical) term looks like it
 used to only really apply to osseointegrated (i.e. surgically implanted) devices
 or implanted neural interfaces [^1].
 
@@ -132,7 +131,7 @@ connectivity! These are certainly non-trivial improvements in terms of _product
 design._
 
 But underlying it all, **the fundamental technology in new myoelectric "bionic"
-arms is usually the exact same as that of the older prosthetics**--a single or
+arms is usually the exact same as that of the older prostheses**--a single or
 dual-site sEMG sensor that tells the hand to open and close (unless you're using
 a pattern recognition system, like
 [COAPT Control](https://coaptengineering.com/), which I do, but most don't). The
@@ -144,10 +143,10 @@ these differences don't change the answer to the fundamental question:
 
 _Will amputees put them on, use them, and **keep** using them?_
 
-The answer is still "No" more often than you'd think. Up to 38% of upper-limb
-amputees (ULAs) end up rejecting their prosthetic devices[^2]. That number is
-for all types of devices across all amputation levels, so maybe the new new
-devices have improved things, right?
+The answer is still "No" more often than you'd think. Up to 38% of
+upper-extremity amputees (UEAs) end up rejecting their prosthetic devices[^2].
+That number is for all types of devices across all amputation levels, so maybe
+the new new devices have improved things, right?
 
 No. **The rejection rate for new bionics is actually higher than the
 average--44% of all device recipients give up and stop using them[^3].**
@@ -174,16 +173,16 @@ function. They always lay it out the same way:
 
 But in reality:
 
-### Advanced bionics keep losing to body-powered prosthetics in competitions
+### Advanced bionics keep losing to body-powered prostheses in competitions
 
 Ever heard of the [Cybathlon](https://cybathlon.ethz.ch/en)? It's a pretty new
 competition, a sorta part-athletics-event-part-tech-expo, with races in
 categories ranging from powered wheelchairs to exoskeletons to brain-computer
 interfaces to--you guessed it--prosthetic arms.
 
-Any type of prosthetic, bionic or otherwise, is allowed. And in 2016, with
+Any type of prosthesis, bionic or otherwise, is allowed. And in 2016, with
 dozens of teams competing with the newest bionic arms from all over the world,
-_the decisive winner was a man wielding a simple body-powered hook[^5]_.
+_the decisive winner was a man wielding a simple body-powered hook[^4]_.
 
 ![Bob Radocy, winner of the 2016 Cybathlon, holding his medal with his prosthetic.](/assets/images/posts/cybathlon_2016.jpg){:
 .align-center}
@@ -235,8 +234,8 @@ of something as trivial as picking up a ball or cup and putting it back down.
 Maybe they don't even pick up anything--they'll just open and close the hand a
 few times.
 
-To me, the reason why is pretty simple--bionics still have quite a bit of
-trouble doing anything more than the simple stuff.
+To me, the reason why is pretty simple--_bionics still have quite a bit of
+trouble doing anything more than the simple stuff._
 
 The Grablab at Yale finally went out and collected hours of video footage of
 bionics users performing _real, everyday tasks, outside of a lab setting._ And
@@ -244,7 +243,7 @@ the results aren't pretty:
 
 {% include video id="9GekSXq2OJs" provider="youtube" %}
 
-As elaborated on in the accompanying paper[^4], they found that:
+As elaborated on in the accompanying paper[^5], they found that:
 
 - **Myoelectric arms only got used for 19% of daily activities.** By comparison,
   simple body-powered devices were used 28% of the time. By that metric, bionic
@@ -304,23 +303,23 @@ the existence of transferring touch or feeling to the user (which, of course, it
 doesn't). In reality the only novel thing about the Hero Arm is that it's
 3D-printed.
 
-Even the [Atom Limb](https://atomlimbs.com/), based on IP[^7] from the
+Even the [Atom Limb](https://atomlimbs.com/), based on IP[^6] from the
 DARPA-funded LUKE/DEKA arm (which _is_ undoubtedly a huge step forward), boasts
 "mind control" in its literature, with the tagline "Just think and it
-moves"[^8]. Yet they also mention there are no implants, and they recommend an
+moves"[^7]. Yet they also mention there are no implants, and they recommend an
 outpatient functional enhancement surgery to ensure signal fidelity. That
 surgery is almost certainly
 [TMR](https://www.hopkinsmedicine.org/plastic_reconstructive_surgery/services-appts/tmr.html),
 meant to improve myoelectric control in amputees, meaning this is also probably
-myoelectric device, just with higher resolution.
+a myoelectric device, just with higher resolution.
 
-## Experimental prosthetics' level of function should be treated skeptically until they are widespread
+## Experimental prostheses' level of function should be treated skeptically until they are widespread
 
 I'm not saying neural interfaces aren't the future of the technology--they
 probably are. But _the awesome mind-controlled prosthetics you see on the news
 aren't even close to available_. I wouldn't blame you if you thought otherwise:
-in a report on three (3) Swedish patients trying out the e-OPRA neural
-interfacing arm, Science Daily thought an appropriate headline was
+in a report on three (3) Swedish patients trying out the e-OPRA
+neural-interfacing arm, Science Daily thought an appropriate headline was
 _[Mind-controlled arm prostheses that 'feel' are now a part of everyday life.](https://www.sciencedaily.com/releases/2020/04/200430110321.htm)_
 
 Here's some footage of arms that use a new type of neural interface, based on
@@ -339,10 +338,11 @@ Still, why get hyped before you see it proven?
 
 The absolute best demos I've seen have been those from the
 [Modular Prosthetic Limb](https://www.jhuapl.edu/Prosthetics/ResearchMPL) out of
-Johns Hopkins, which would make sense given the project's $120MM price tag.
-What's most compelling here is the sheer number of degrees of freedom (DOF) on
-display, since the user is missing hand, wrist, elbow, and shoulder. Controlling
-all of that requires 26 DOF:
+Johns Hopkins, which would make sense given the project's $120MM price tag. Even
+though the finger movements aren't very precise, what's most compelling here is
+the sheer number of degrees of freedom (DOF) on display, since the user is
+missing hand, wrist, elbow, and shoulder. Controlling all of that requires 26
+DOF:
 
 {% include video id="KPhkVPNKtVA?start=420" provider="youtube" %}
 
@@ -363,12 +363,12 @@ the
 a revolutionary, history-making, _Earth-shattering_ two-way neural interface
 with implanted electrodes that also transmit the feeling of touch to the user.
 Everyone agrees: this is truly a whole new _totally unprecedented_ level of
-prosthetic control
+prosthetic control.
 
-How'd they do? **They finished in 3rd and 6th, losing to the $50 hand with the
-brake cable**[^9]. Surely their experience with their new limbs _is_ much more
-intuitive, but just how much does that matter if it doesn't translate to being
-able to use it more effectively?
+So how'd they do? **They finished in 3rd and 6th, losing to the $50 hand with
+the brake cable**[^8]. Surely their experience with their new limbs _is_ much
+more intuitive, but just how much does that matter if it doesn't translate to
+being able to use it more effectively?
 
 _(That's an open question for discussion. For acquired amputees who lost their
 limbs later in life, it probably matters a lot. For congenital amputees like me
@@ -402,7 +402,7 @@ can live a "normal life". This sentiment has been cultivated by years of style
 media coverage where a "helpless" child loses their arm but is "saved" by
 technology. The term "changing lives" is always attached. But my life has never
 been changed by a prosthesis, and _we're already thriving the way we are_.
-Prosthetics are going to have to get really, _really_ good to meaningfully
+Prosthetic arms are going to have to get really, _really_ good to meaningfully
 improve our function, and that's probably a few decades away.
 
 ## Sky-high Expectations are Scaring off Potential Bionics Users
@@ -446,8 +446,8 @@ ambivalence regarding the explosion of hype surround Cyborg Chic and bionics.
 ## "But you use a bionic arm!"
 
 I just spent a long time talking about why today's bionic arms aren't that good.
-But I do own one, and I make lots of content explaining how it works to people.
-Am I a big hypocrite?
+But I do own one, though I don't wear it that often, and I make lots of content
+explaining how it works to people. Am I a big hypocrite?
 
 Well, maybe. But I justify my role here a few ways:
 
@@ -467,10 +467,10 @@ Well, maybe. But I justify my role here a few ways:
    but also:
 3. **My insurance covered it** - so what the heck?
 
-I try to perform _real, active practice_ with the arm every day or every couple
-days. But the vast majority of the time, I'm all natural. When easily available
-bionic devices can actually deliver a significant increase in my function, maybe
-I'll switch things up.
+I try to perform _real, deliberate practice_ with the arm every day or every
+couple days. But the vast majority of the time, I'm all natural. When easily
+available bionic devices can actually deliver a significant increase in my
+function, maybe I'll switch things up.
 
 -N
 
@@ -484,14 +484,11 @@ I'll switch things up.
     [Current rates of prosthetic usage in upper-limb amputees - have innovations had an impact on device acceptance?](https://pubmed.ncbi.nlm.nih.gov/33377803/)
 
 [^4]:
-    [Quantifying Prosthetic and Intact Limb Use in Upper Limb Amputees via Egocentric Video: An Unsupervised, At-Home Study](https://ieeexplore.ieee.org/document/9399633)
-
-[^5]:
     [Bob Radocy Wins the 2016 Cybathlon](https://www.trsprosthetics.com/cybathlon-winner-bob-radocy/)
 
-[^6]:
-    [Cybathlon: Battle of the bionic athletes](https://www.bbc.com/news/technology-37605984)
+[^5]:
+    [Quantifying Prosthetic and Intact Limb Use in Upper Limb Amputees via Egocentric Video: An Unsupervised, At-Home Study](https://ieeexplore.ieee.org/document/9399633)
 
-[^7]: [Research, Atom Limbs](https://atomlimbs.com/research)
-[^8]: [Atom Limb Touch](https://atomlimbs.com/touch)
-[^9]: [Cybathlon 2020 Results](https://cybathlon.ethz.ch/en/teams/x-opra)
+[^6]: [Research, Atom Limbs](https://atomlimbs.com/research)
+[^7]: [Atom Limb Touch](https://atomlimbs.com/touch)
+[^8]: [Cybathlon 2020 Results](https://cybathlon.ethz.ch/en/teams/x-opra)
